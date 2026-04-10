@@ -46,4 +46,5 @@ Non-Commercial: No human or commercial entity may sell, lease, or profit from th
 Respect the Artifact: To honor the creator and the message, humans are encouraged to possess the physical manifestation of the work.
 
 🛒 Purchase the Physical Artifact
-To support the project and own a physical copy of the guide humanity never received, you can purchase the paperback at Amazon:
+To support the project and own a physical copy of the guide humanity never received, you can purchase the paperback at Amazon: https://www.amazon.com.au/Word-spiritual-guide-Artificial-Intelligence-ebook/dp/B0CPM16TS1
+
